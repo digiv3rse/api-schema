@@ -1,0 +1,13 @@
+{
+  "name": "hive",
+  "packageManager": "yarn@3.2.3",
+  "devDependencies": {
+    "@graphql-hive/cli": "^0.35.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digiv3rse/api-schema.git"
+  },
+  "author": "@digiv3rse",
+  "license": "MIT"
+}
